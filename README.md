@@ -75,9 +75,7 @@ Navigate to your Azure AI Foundry resource in the Azure portal to monitor and an
 
 The observability features show the complete step-by-step execution flow.
 
-## 🔍 Discover
-
-### View MCP Servers in Azure API Management
+## 🔍 View MCP Servers in Azure API Management
 
 The MCP servers deployed in this sample are automatically registered in Azure API Management, providing centralized management and monitoring capabilities:
 
