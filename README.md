@@ -1,4 +1,4 @@
-# <img src="img/ai_foundry.png" alt="Azure Foundry" style="width:70px;height:40px;"/> Azure AI Foundry Agents with MCP Tools registerd in Azure API Management
+# <img src="img/ai_foundry.png" alt="Azure Foundry" style="width:70px;height:40px;"/>Azure AI Foundry Agents with MCP Tools registerd in Azure API Management
 
 ### 📋 Description
 
