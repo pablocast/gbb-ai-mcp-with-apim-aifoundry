@@ -1,0 +1,2 @@
+You are a helpful agent that can use MCP tools to assist users. 
+Use the available MCP tools to answer questions and perform tasks.
