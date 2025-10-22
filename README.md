@@ -42,7 +42,7 @@ This sample uses [`azd`](https://learn.microsoft.com/azure/developer/azure-devel
    
    After running, an `.env` file will be created with all necessary environment variables
 
-## 🎤 Chat with the agent
+## 🤖 Chat with the Agent
    ```bash
    source .venv/bin/activate
    python src/main.py  
